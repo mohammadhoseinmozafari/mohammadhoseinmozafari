@@ -2,7 +2,11 @@
 - 🎒 I study Industrial Engineering at University of Tehran
 - 👀 I’m interested in Data analysis and Data science
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 📫 You can reach me in Telegram : @MohamadhoseinMozafari and Email: mohammad.hosein.mozafaryk@gmail.com
+- 📫 You can reach me 
+- Telegram : @MohamadhoseinMozafari
+- Email: mohammad.hosein.mozafaryk@gmail.com
+- Kaggle : https://www.kaggle.com/mohammadhmozafary
+- Linkedin: https://www.linkedin.com/in/mohammadhosein-mozafary-250a1b204/
 
 
 
